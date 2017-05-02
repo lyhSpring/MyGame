@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{0BE4764E-5471-EB94-C5C5-90FE8E314494}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_5_2;UNITY_5_5;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VIDEO;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\CarWaypoints\Scripts\CarController.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\CarController2.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\CarSpeed.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\MyDestory.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\MyWaypoints.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\WaypointMenu.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\WaypointMessage.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\WaypointsModel.cs" />
+     <Compile Include="Assets\CarWaypoints\Scripts\WaypointsXML.cs" />
+     <Compile Include="Assets\CarWaypoints\demo\Standard Assets\Camera Scripts\SmoothFollowA.cs" />
+     <Compile Include="Assets\Demigiant\DOTweenPro\DOTweenAnimation.cs" />
+     <Compile Include="Assets\Scripts\Circle.cs" />
+     <Compile Include="Assets\Scripts\Gold\BuyCar2.cs" />
+     <Compile Include="Assets\Scripts\Gold\MyGold.cs" />
+     <Compile Include="Assets\Scripts\Gold\goldQuantity.cs" />
+     <Compile Include="Assets\Scripts\ListScripts\VolumeButton.cs" />
+     <Compile Include="Assets\Scripts\ListScripts\tui.cs" />
+     <Compile Include="Assets\Scripts\MyAudios.cs" />
+     <Compile Include="Assets\Scripts\MyBool.cs" />
+     <Compile Include="Assets\Scripts\MyMark.cs" />
+     <Compile Include="Assets\Scripts\MyShow\MyPlan.cs" />
+     <Compile Include="Assets\Scripts\MyShow\MyTime.cs" />
+     <Compile Include="Assets\Scripts\StartScene\Car.cs" />
+     <Compile Include="Assets\Scripts\StartScene\GameManager.cs" />
+     <Compile Include="Assets\Scripts\StartScene\MouseControl.cs" />
+     <Compile Include="Assets\Scripts\StartScene\MyAlwaysSou.cs" />
+     <Compile Include="Assets\Scripts\StartScene\MySou.cs" />
+     <Compile Include="Assets\Scripts\StartScene\ProBar.cs" />
+     <Compile Include="Assets\Scripts\StartScene\RoTation.cs" />
+     <Compile Include="Assets\Scripts\StartScene\VXButton.cs" />
+     <Compile Include="Assets\Scripts\StartScene\VolButton.cs" />
+     <Compile Include="Assets\Scripts\StartScene\chyou.cs" />
+     <Compile Include="Assets\Scripts\StartScene\chzuo.cs" />
+     <Compile Include="Assets\Scripts\Volumes\MySlider.cs" />
+     <Compile Include="Assets\Scripts\Volumes\MyToggle.cs" />
+     <Compile Include="Assets\Scripts\Volumes\chaButton.cs" />
+     <Compile Include="Assets\Scripts\Wheel.cs" />
+     <Compile Include="Assets\Scripts\addbutton\button.cs" />
+     <Compile Include="Assets\Scripts\addbutton\button1.cs" />
+     <Compile Include="Assets\Scripts\guanlian\Starttiao.cs" />
+     <Compile Include="Assets\Scripts\guanlian\changtiao.cs" />
+     <Compile Include="Assets\Scripts\guanlian\cjntiao.cs" />
+     <Compile Include="Assets\Scripts\guanlian\dangqian.cs" />
+     <Compile Include="Assets\Scripts\guanlian\xuanchetiao.cs" />
+     <Compile Include="Assets\Scripts\listButton.cs" />
+     <Compile Include="Assets\Scripts\mainCaneraCut.cs" />
+     <Compile Include="Assets\Scripts\move.cs" />
+     <None Include="Assets\VMotor\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Demigiant\DOTweenPro\readme.txt" />
+     <None Include="Assets\CarWaypoints\data\CubeTest Waypoints Data.xml" />
+     <None Include="Assets\VMotor\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\Demigiant\DemiLib\Core\DemiLib.xml" />
+     <None Include="Assets\race_track\readmore.txt" />
+     <None Include="Assets\Demigiant\DOTween\DOTween50.xml" />
+     <None Include="Assets\CarWaypoints\demo\Car\skyline\CarShader.shader" />
+     <None Include="Assets\Demigiant\DOTween\DOTween46.xml" />
+     <None Include="Assets\CarWaypoints\data\New Waypoints Data.xml" />
+     <None Include="Assets\VMotor\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Demigiant\DOTween\readme.txt" />
+     <None Include="Assets\CarWaypoints\data\Test Waypoints Data.xml" />
+     <None Include="Assets\Demigiant\DOTween\DOTween43.xml" />
+     <None Include="Assets\Car_6\Skybox\readme.txt" />
+     <None Include="Assets\CarWaypoints\demo\Standard Assets\Shadow\ShadowProjection.shader" />
+     <None Include="Assets\Car_7\Skybox\readme.txt" />
+     <None Include="Assets\Demigiant\DemiLib\Core\Editor\DemiEditor.xml" />
+     <None Include="Assets\Car_8\Skybox\readme.txt" />
+     <None Include="Assets\Demigiant\readme_DOTweenPro.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.PlaymodeTestsRunner">
+ <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.HoloLens">
+ <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.VR">
+ <HintPath>D:/Program Files/Unity3D/ProgramFile/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="DemiLib">
+ <HintPath>E:/unity3D/Champion/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>E:/unity3D/Champion/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>E:/unity3D/Champion/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>E:/unity3D/Champion/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>E:/unity3D/Champion/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTweenPro">
+ <HintPath>E:/unity3D/Champion/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

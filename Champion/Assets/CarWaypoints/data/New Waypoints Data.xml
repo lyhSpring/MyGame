@@ -1,0 +1,547 @@
+<waypoints>
+  <waypoint index="0">
+    <position>(-221.4, 185.4, 39.3)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="1">
+    <position>(-214.6, 185.4, 40.7)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="2">
+    <position>(-207.7, 185.4, 42.2)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="3">
+    <position>(-200.9, 185.4, 44.0)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="4">
+    <position>(-194.3, 185.4, 46.3)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="5">
+    <position>(-187.7, 185.4, 49.1)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="6">
+    <position>(-178.7, 185.4, 53.2)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="7">
+    <position>(-172.4, 185.4, 56.2)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="8">
+    <position>(-166.1, 185.4, 59.2)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="9">
+    <position>(-160.4, 185.4, 63.3)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="10">
+    <position>(-154.7, 185.4, 67.3)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="11">
+    <position>(-149.0, 185.4, 71.4)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="12">
+    <position>(-143.3, 185.4, 75.5)</position>
+    <rotation>(0.0, 0.4, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="13">
+    <position>(-138.1, 185.4, 80.4)</position>
+    <rotation>(0.0, 0.4, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="14">
+    <position>(-132.5, 185.4, 85.0)</position>
+    <rotation>(0.0, 0.4, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="15">
+    <position>(-127.6, 185.4, 89.6)</position>
+    <rotation>(0.0, 0.5, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="16">
+    <position>(-116.6, 185.4, 94.4)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="17">
+    <position>(-104.9, 185.4, 96.8)</position>
+    <rotation>(0.0, 0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="18">
+    <position>(-93.2, 185.4, 93.8)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="19">
+    <position>(-83.0, 185.4, 87.5)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.2)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="20">
+    <position>(-78.2, 185.4, 76.5)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.1)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="21">
+    <position>(-76.1, 185.4, 64.7)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="22">
+    <position>(-76.4, 185.4, 52.7)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.1)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="23">
+    <position>(-78.8, 185.4, 41.0)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="24">
+    <position>(-82.1, 185.4, 36.0)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="25">
+    <position>(-85.2, 185.4, 33.4)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="26">
+    <position>(-89.7, 185.4, 30.8)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="27">
+    <position>(-101.6, 185.4, 32.3)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="28">
+    <position>(-113.5, 185.4, 33.9)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="29">
+    <position>(-125.3, 185.4, 31.9)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="30">
+    <position>(-137.1, 185.4, 29.5)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="31">
+    <position>(-146.7, 185.4, 22.3)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="32">
+    <position>(-150.1, 185.4, 16.3)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="33">
+    <position>(-150.7, 185.4, 9.6)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.2)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="34">
+    <position>(-147.8, 185.4, 1.9)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="35">
+    <position>(-138.2, 185.4, -5.4)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="36">
+    <position>(-128.7, 185.4, -12.7)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.1)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="37">
+    <position>(-125.5, 185.4, -24.2)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="38">
+    <position>(-131.8, 185.4, -34.4)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="39">
+    <position>(-138.1, 185.4, -44.6)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="40">
+    <position>(-147.6, 185.4, -52.0)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="41">
+    <position>(-157.1, 185.4, -59.3)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="42">
+    <position>(-166.5, 185.4, -66.7)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="43">
+    <position>(-177.6, 185.4, -71.4)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="44">
+    <position>(-188.6, 185.4, -76.2)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="45">
+    <position>(-200.6, 185.4, -76.6)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="46">
+    <position>(-212.6, 185.4, -76.9)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="47">
+    <position>(-224.6, 185.4, -77.0)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="48">
+    <position>(-236.6, 185.4, -77.0)</position>
+    <rotation>(0.0, -0.5, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="49">
+    <position>(-247.6, 185.4, -72.2)</position>
+    <rotation>(0.0, -0.5, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="50">
+    <position>(-258.6, 185.4, -67.4)</position>
+    <rotation>(0.0, -0.4, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="51">
+    <position>(-267.5, 185.4, -59.3)</position>
+    <rotation>(0.0, -0.3, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="52">
+    <position>(-274.1, 185.4, -49.4)</position>
+    <rotation>(0.0, -0.1, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="53">
+    <position>(-276.3, 185.4, -37.6)</position>
+    <rotation>(0.0, 0.1, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="54">
+    <position>(-274.7, 185.4, -25.7)</position>
+    <rotation>(0.0, 0.2, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="55">
+    <position>(-269.9, 185.4, -14.7)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="56">
+    <position>(-258.4, 185.4, -11.0)</position>
+    <rotation>(0.0, 0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="57">
+    <position>(-250.9, 185.4, -12.4)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="58">
+    <position>(-246.0, 185.5, -15.0)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="59">
+    <position>(-241.3, 185.4, -19.0)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.2)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="60">
+    <position>(-235.8, 185.4, -30.3)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="61">
+    <position>(-224.2, 185.4, -36.8)</position>
+    <rotation>(0.0, 0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="62">
+    <position>(-220.0, 185.7, -37.2)</position>
+    <rotation>(-0.1, 0.7, 0.1, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="63">
+    <position>(-207.4, 187.8, -35.9)</position>
+    <rotation>(-0.1, 0.4, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="64">
+    <position>(-196.4, 190.1, -27.5)</position>
+    <rotation>(-0.1, 0.3, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="65">
+    <position>(-193.1, 190.8, -22.8)</position>
+    <rotation>(0.0, 0.1, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="66">
+    <position>(-191.1, 191.3, -11.0)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="67">
+    <position>(-190.5, 191.3, 1.0)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="68">
+    <position>(-189.9, 191.3, 13.0)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="69">
+    <position>(-189.3, 191.3, 25.0)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="70">
+    <position>(-188.7, 191.3, 37.0)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="71">
+    <position>(-188.2, 191.3, 48.9)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="72">
+    <position>(-188.9, 191.3, 60.9)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="73">
+    <position>(-189.5, 191.3, 72.9)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="74">
+    <position>(-190.2, 191.3, 84.9)</position>
+    <rotation>(0.0, 0.0, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="75">
+    <position>(-190.8, 190.2, 96.9)</position>
+    <rotation>(0.1, -0.2, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="76">
+    <position>(-195.4, 187.9, 108.0)</position>
+    <rotation>(0.1, -0.3, 0.0, 1.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="77">
+    <position>(-198.8, 187.0, 114.0)</position>
+    <rotation>(0.0, -0.5, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="78">
+    <position>(-203.0, 186.9, 117.1)</position>
+    <rotation>(0.0, -0.5, 0.0, 0.9)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="79">
+    <position>(-211.0, 186.6, 121.1)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="80">
+    <position>(-223.0, 186.0, 121.3)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="81">
+    <position>(-235.1, 185.4, 122.5)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="82">
+    <position>(-246.8, 185.4, 119.9)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="83">
+    <position>(-257.7, 185.4, 115.0)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="84">
+    <position>(-265.0, 185.4, 105.5)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.2)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="85">
+    <position>(-269.8, 185.4, 94.5)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.2)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="86">
+    <position>(-274.6, 185.4, 83.5)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="87">
+    <position>(-282.3, 185.4, 74.2)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="88">
+    <position>(-292.4, 185.4, 67.8)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="89">
+    <position>(-304.1, 185.4, 65.0)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="90">
+    <position>(-315.8, 185.4, 62.2)</position>
+    <rotation>(0.0, -0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="91">
+    <position>(-327.4, 185.4, 59.3)</position>
+    <rotation>(0.0, -0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="92">
+    <position>(-339.4, 185.4, 58.5)</position>
+    <rotation>(0.0, 0.9, 0.0, -0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="93">
+    <position>(-343.1, 185.4, 55.4)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.3)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="94">
+    <position>(-346.4, 185.4, 49.6)</position>
+    <rotation>(0.0, 1.0, 0.0, -0.2)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="95">
+    <position>(-347.9, 185.4, 45.6)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.0)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="96">
+    <position>(-347.9, 185.4, 41.6)</position>
+    <rotation>(0.0, 1.0, 0.0, 0.1)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="97">
+    <position>(-346.2, 185.4, 35.7)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.4)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="98">
+    <position>(-343.0, 185.4, 32.2)</position>
+    <rotation>(0.0, 0.9, 0.0, 0.5)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="99">
+    <position>(-336.1, 185.4, 28.6)</position>
+    <rotation>(0.0, 0.8, 0.0, 0.6)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="100">
+    <position>(-324.6, 185.4, 25.0)</position>
+    <rotation>(0.0, 0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="101">
+    <position>(-312.6, 185.4, 24.5)</position>
+    <rotation>(0.0, 0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="102">
+    <position>(-300.7, 185.4, 24.1)</position>
+    <rotation>(0.0, 0.7, 0.0, 0.7)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="103">
+    <position>(-288.7, 185.4, 23.6)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="104">
+    <position>(-276.9, 185.4, 26.2)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="105">
+    <position>(-265.4, 185.4, 29.4)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="106">
+    <position>(-253.8, 185.4, 32.6)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="107">
+    <position>(-242.1, 185.4, 35.1)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+  <waypoint index="108">
+    <position>(-230.3, 185.4, 37.6)</position>
+    <rotation>(0.0, 0.6, 0.0, 0.8)</rotation>
+    <scale>(1.0, 1.0, 1.0)</scale>
+  </waypoint>
+</waypoints>

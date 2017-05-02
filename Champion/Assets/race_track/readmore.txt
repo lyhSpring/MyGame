@@ -1,0 +1,10 @@
+Race track for fast game prototyping.
+
+This asset contains:
+- race track model
+- Unity terrain with Unity trees
+- safety tires with physics applied
+- one camera
+- one light
+
+Materials with hi-res textures (2048x2048px) and normal maps.
